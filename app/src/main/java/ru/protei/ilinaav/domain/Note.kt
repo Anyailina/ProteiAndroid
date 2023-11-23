@@ -1,4 +1,4 @@
-package ru.protei.ilinaav.data
+package ru.protei.ilinaav.domain
 
 class Note(
     var title: String,
